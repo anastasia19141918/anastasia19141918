@@ -1,5 +1,6 @@
-### Hi there 👋
 
+<h1 align="center">👋 Hi there, I'm Anastasiya</h1>
+<h3 align="center">Beginning Junior Frontend Developer</h3>
 <!--
 **anastasia19141918/anastasia19141918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
