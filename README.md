@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi there, I'm Anastasiya</h1>
+<h1 align="center">👋 Hi There, I'm Anastasiya</h1>
 <h3 align="center">Beginning Junior Frontend Developer</h3>
 <div align="center">
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhjdHd0czdpaDl5cG5vdzdnMzJzM215bHdlcTFuZWM3NnE2OWt5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif' alt='img ciding' width='200'> 
 </div>
-<div>About Me:</div>
+<h2>About Me:</h2>
 <ul>
   <li>
     Studying front-end. I have some experience, but I continue to improve:):sunglasses:
-  </li>
+   </li>
   <li>
     I like the website layout:partying_face:
   </li>
@@ -20,7 +20,7 @@
 </ul>
 
 ---
-### :fireworks: Languages and Tools:
+## :fireworks: Languages and Tools:
 <div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg' alt='img SASS' width="50" height="50">
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' alt='img html' width="50" height="50">
