@@ -1,8 +1,8 @@
+<h1 align="center">👋 Hi there, I'm Anastasiya</h1>
+<h3 align="center">Beginning Junior Frontend Developer</h3>
 <div align="center">
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhjdHd0czdpaDl5cG5vdzdnMzJzM215bHdlcTFuZWM3NnE2OWt5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif' alt='img ciding' width='200'> 
 </div>
-<h1 align="center">👋 Hi there, I'm Anastasiya</h1>
-<h3 align="center">Beginning Junior Frontend Developer</h3>
 <div>About Me:</div>
 <ul>
   <li>
