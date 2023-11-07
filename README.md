@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi There, I'm Anastasiya</h1>
 <h2 align="center">Beginning Junior Frontend Developer</h3>
-<h2 align="center"><a href="https://anastasia19141918.github.io/rsschool-cv/">:eyes: My CV(Curriculum Vitae)</a></h2>
+<!--<h2 align="center"><a href="https://anastasia19141918.github.io/rsschool-cv/">:eyes: My CV(Curriculum Vitae)</a></h2>-->
 <div align="center">
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhjdHd0czdpaDl5cG5vdzdnMzJzM215bHdlcTFuZWM3NnE2OWt5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif' alt='img ciding' width='200'> 
 </div>
