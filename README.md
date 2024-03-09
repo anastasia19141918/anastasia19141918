@@ -22,6 +22,7 @@
   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL/portfolio/random/">Random</a></li>
   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/museum/louvre/">Museum(louvre)</a></li>
   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFE2023Q4/coffee-house/">Coffee-House</a></li>
+  <li> <a href="https://anastasia19141918.github.io/image-gallery/gallery/index.html">Image Gallery</a></li>
 </ul>
 <h2>Сontact Me</h2>
 <div>
