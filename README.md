@@ -1,6 +1,14 @@
 <h1 align="center">👋 Hi There, I'm Anastasiya</h1>
 <h2 align="center">Beginning Junior Frontend Developer</h3>
-<!--<h2 align="center"><a href="https://anastasia19141918.github.io/rsschool-cv/">:eyes: My CV(Curriculum Vitae)</a></h2>-->
+<h2 align="center"><a href="https://anastasia19141918.github.io/CV/MyCv/index.html">:eyes: My CV(Curriculum Vitae)</a></h2>
+<div align="center">
+  <a href="https://t.me/tutayshaya1066">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" height="40">
+  </a>
+  <a href="anastasiya.anast.ru@mail.ru">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru-LightSeaGreen?logo=Mail.ru&logoColor=white&style=for-the-badge" height="40">
+  </a>
+</div>
 <div align="center">
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhjdHd0czdpaDl5cG5vdzdnMzJzM215bHdlcTFuZWM3NnE2OWt5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif' alt='img ciding' width='200'> 
 </div>
@@ -17,22 +25,11 @@
 <ul>
   <li><a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/plants/">Plants</a></li>  
   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL/portfolio/random/game/">Game</a></li>
-  <li><a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/singolo/">Singolo</a></li>
-  <li><a href="https://anastasia19141918.github.io/cssBayan/CSSBAYAN/index.html">CSSBAYAN</a></li>  
   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL/portfolio/random/">Random</a></li>
   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/museum/louvre/">Museum(louvre)</a></li>
-  <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFE2023Q4/coffee-house/">Coffee-House</a></li>
-  <li> <a href="https://anastasia19141918.github.io/image-gallery/gallery/index.html">Image Gallery</a></li>
+  ...more in <a href="https://anastasia19141918.github.io/CV/MyCv/index.html">My CV(Curriculum Vitae)</a>
 </ul>
-<h2>Сontact Me</h2>
-<div>
-  <a href="https://t.me/tutayshaya1066">
-     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" height="40">
-  </a>
-  <a href="anastasiya.anast.ru@mail.ru">
-     <img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru-LightSeaGreen?logo=Mail.ru&logoColor=white&style=for-the-badge" height="40">
-  </a>
-</div>
+
 
  
 
