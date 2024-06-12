@@ -24,9 +24,7 @@
 <h2>My projects</h2>
 <ul>
   <li><a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/plants/">Plants</a></li>  
-  <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL/portfolio/random/game/">Game</a></li>
-  <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL/portfolio/random/">Random</a></li>
-  <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/museum/louvre/">Museum(louvre)</a></li>
+   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/museum/louvre/">Museum(louvre)</a></li>
   ...more in <a href="https://anastasia19141918.github.io/CV/MyCv/index.html">My CV(Curriculum Vitae)</a>
 </ul>
 
