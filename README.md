@@ -24,7 +24,7 @@
 <ul>
    <li> :open_book: I'm currently learning frontend</li>
    <li> :notebook: Know about my experience:<a href="https://anastasia19141918.github.io/CV/MyCv/index.html">CV</a></li>
-  <li> :incoming_envelope: Reach me by: <a href="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge">Telegram</a></li>
+  <li> :incoming_envelope: Reach me by: <a href="https://t.me/tutayshaya1066">Telegram</a></li>
 </ul>
 
 
