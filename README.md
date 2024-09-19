@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi There, I'm Anastasiya</h1>
-<h2 align="center">Beginning Junior Frontend Developer</h3>
-<h2 align="center"><a href="https://anastasia19141918.github.io/CV/MyCv/index.html">:eyes: My CV(Curriculum Vitae)</a></h2>
+<h2 align="center">Junior Frontend Developer</h3>
 <div align="center">
   <a href="https://t.me/tutayshaya1066">
      <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" height="40">
@@ -9,6 +8,8 @@
      <img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru-LightSeaGreen?logo=Mail.ru&logoColor=white&style=for-the-badge" height="40">
   </a>
 </div>
+<h2 align="center"><a href="https://anastasia19141918.github.io/CV/MyCv/index.html">:eyes: My CV(Curriculum Vitae)</a></h2>
+
 
 
 ## :fireworks: Languages and Tools:
