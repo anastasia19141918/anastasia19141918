@@ -8,7 +8,7 @@
      <img alt="Mail.ru" src="https://img.shields.io/badge/Mail.ru-LightSeaGreen?logo=Mail.ru&logoColor=white&style=for-the-badge" height="40">
   </a>
 </div>
-<h2 align="center" style="color:#260C0A><a href="https://anastasia19141918.github.io/CV/MyCv/index.html">:eyes: My CV(Curriculum Vitae)</a></h2>
+
 
 
 
@@ -20,10 +20,11 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg' alt='img CSS' width="50" height="50">
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg' alt='img git' width="50" height="50">
 </div>
-<h2>My projects</h2>
+<h2>:herb:About Me</h2>
 <ul>
-   <li> <a href="https://rolling-scopes-school.github.io/anastasia19141918-JSFEPRESCHOOL2022Q4/museum/louvre/">Museum(louvre)</a></li>
-  ...more in <a href="https://anastasia19141918.github.io/CV/MyCv/index.html">My CV(Curriculum Vitae)</a>
+   <li> :open_book: I'm currently learning frontend</li>
+   <li> :notebook: Know about my experience:<a href="https://anastasia19141918.github.io/CV/MyCv/index.html">CV</a></li>
+  <li> :incoming_envelope: Reach me by: <a href="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge">Telegram</a></li>
 </ul>
 
 
